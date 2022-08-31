@@ -2,3 +2,7 @@
 /dist
 *.jar
 *.class
+/Project-Zomboid-Java-Modification-Loader.iml
+/.idea/
+/mods/CustomSaveFile/CustomSaveFile.iml
+/mods/DebugSwitch/DebugSwitch.iml
